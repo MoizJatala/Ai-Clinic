@@ -1,0 +1,8 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "agent": "./src/agent/langgraph_agent/dynamic_langgraph_agent.py:graph"
+  },
+  "env": ".env",
+  "image_distro": "wolfi"
+}
